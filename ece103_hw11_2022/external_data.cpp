@@ -4,7 +4,7 @@
 #include "external_data.h"
 
 char nickname_list[25][30] = {
-    "Dr. Mali*.", 
+    "Avery Lavern Pratt*", 
 //* Do not modify above *
 
 //* Do not modify below *
