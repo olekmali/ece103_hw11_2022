@@ -2,7 +2,7 @@
 #ifndef _external_data_h
 #define _external_data_h
 
-const char homework_version[] = "2.41";
+const char homework_version[] = "2.60";
 
 extern char nickname_list[25][30];
 
